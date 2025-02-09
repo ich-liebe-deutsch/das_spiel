@@ -1,2 +1,2 @@
 # das_spiel
-das ist meine spiel
+das ist mein spiel
